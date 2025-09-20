@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+I'm a dedicated Computer Science student at BINUS University, currently in my 2nd year. With a strong foundation in software engineereing principles and problem solving, i'm passionate about the potential of Artificial Intellignece, Machine Learning and Deep Learning to push new innovation. My coursework and some of my projects have focused on learning and using AI and ML like predictive modeling. I'm currently learning Deep Learning to further my knowledge of AI and seeking for a software engineering internship.
 <!--
 **Atshara/Atshara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
