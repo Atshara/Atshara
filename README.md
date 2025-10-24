@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm a dedicated Computer Science student at BINUS University, currently in my 3rd year. With a strong foundation in software engineering principles and problem solving, I'm passionate about the potential of Artificial Intelligence, Machine Learning and Deep Learning to push new innovation. My coursework and some of my projects have focused on learning and using AI and ML like predictive modeling. I'm currently learning Deep Learning to further my knowledge of AI and seeking an AI related or Computer Science related internship.
+I'm a dedicated Computer Science student at BINUS University, currently in my 2nd year. With a strong foundation in software engineering principles and problem solving, I'm passionate about the potential of Artificial Intelligence, Machine Learning and Deep Learning to push new innovation. My coursework and some of my projects have focused on learning and using AI and ML like predictive modeling. I'm currently learning Deep Learning to further my knowledge of AI and seeking an AI related or Computer Science related internship.
 
 my linkedin: linkedin.com/in/athallah-pasha-ramadhan/
 <!--
